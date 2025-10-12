@@ -12,8 +12,8 @@ class DigitalClock(QWidget):
                                         
     def initUI(self):
         self.setWindowTitle("Personal Clock")
-        # Set as tool window to hide from taskbar and keep on top like a widget
-        self.setWindowFlags(Qt.Tool | Qt.WindowStaysOnTopHint)
+        # Set as tool window to hide from taskbar (shows only on desktop, not over other windows)
+        self.setWindowFlags(Qt.Tool)
         self.setGeometry(1500, 400, 400, 100)
 
         vbox = QVBoxLayout()
