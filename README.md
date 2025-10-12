@@ -18,11 +18,20 @@
 
 ## 🚀 How to Run
 
-### Prerequisites
+### Option 1: Standalone Executable (Recommended for End Users)
+For the easiest experience, download and run the standalone executable:
+
+1. Download `Digital_Clock.exe` from the [Releases](https://github.com/samkiel488/digitalclock/releases) section.
+2. Double-click `Digital_Clock.exe` to launch the application.
+3. No installation required - it includes all dependencies!
+
+### Option 2: Run from Source Code
+
+#### Prerequisites
 - Python 3.x installed on your system.
 - PyQt5 library: Install via pip if not already available.
 
-### Installation
+#### Installation
 1. Clone this repository:
    ```bash
    git clone https://github.com/samkiel488/digitalclock.git
@@ -34,7 +43,7 @@
    pip install PyQt5
    ```
 
-### Running the Application
+#### Running the Application
 Execute the main script:
 ```bash
 python Digital_Clock.py
