@@ -1,6 +1,7 @@
 # 🕒 Digital Clock
 
 **A sleek and modern digital clock application built with Python and PyQt5, showcasing real-time time display in a minimalist interface.**
+# ⭐ First Star the repo
 
 ![Digital Clock Screenshot](Screenshot.png)
 
