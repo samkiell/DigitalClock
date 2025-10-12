@@ -25,8 +25,8 @@
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/digital-clock.git
-   cd digital-clock
+   git clone https://github.com/samkiel488/digitalclock.git
+   cd digitalclock
    ```
 
 2. Install dependencies:
@@ -42,9 +42,6 @@ python Digital_Clock.py
 
 The digital clock window will appear, displaying the current time.
 
-## 📸 Screenshots
-
-*Placeholder for additional screenshots or GIFs demonstrating the app in action.*
 
 ## 👨‍💻 Author
 
