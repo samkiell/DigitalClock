@@ -60,11 +60,11 @@ The digital clock window will appear, displaying the current time.
 
 **SAMKIEL** — *Digitalizing The World*  
 
-- 🌐 **Website**: [samkiel.dev](https://samkiel.dev)
+- 🌐 **Website**: [Samuel Ezekiel](https://samkiel.dev)
 - 📧 **Email**: samkiel.dev@gmail.com
-- 🐙 **GitHub**: [github.com/samkiel488](https://github.com/samkiel488)
-- 💬 **WhatsApp**: [wa.me/+2348087357158](wa.me/+2348087357158)
-- 📍 **Location**: Osun State, Nigeria
+- 🐙 **GitHub**: [Github](https://github.com/samkiel488)
+- 💬 **WhatsApp**: [WhatsApp](wa.me/+2348087357158)
+- 📍 **Location**: Earth
 
 ## 📄 License
 
