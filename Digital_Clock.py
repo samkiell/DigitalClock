@@ -16,9 +16,15 @@ class DigitalClock(QWidget):
         self.setWindowFlags(Qt.Tool | Qt.WindowStaysOnBottomHint)
         self.setGeometry(1500, 400, 400, 100)
 
+        # Set widget background to match label
+        self.setStyleSheet("background-color: #0A0F1F;")
+
         vbox = QVBoxLayout()
         vbox.addWidget(self.time_label)
         self.setLayout(vbox)
+        # Remove margins to eliminate white borders
+        vbox.setContentsMargins(0, 0, 0, 0)
+        self.setContentsMargins(0, 0, 0, 0)
 
         self.time_label.setAlignment(Qt.AlignCenter)
 
